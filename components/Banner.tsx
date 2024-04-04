@@ -11,6 +11,7 @@ import Pricing from "./sections/Pricing";
 import FAQ from "./sections/FAQ";
 import ContactUs from "./sections/ContactUs";
 
+
 export default function Banner() {
   return (
     <div>
